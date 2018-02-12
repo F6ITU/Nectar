@@ -398,8 +398,6 @@ F 3 "" H 5100 1500 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5100 1500 5100 1450
-Text Notes 2900 5350 0    60   ~ 0
-verifie bien le PSSR a la freq de découpage\ny'a des regus qui filtrent bien a certaines frequences, generalement plus c haut moins c bon\net la capa de sortie a un role HYPER important\n\net regle te decoupeurs pour etre juste au dessus de "tension de sortie + 2x le dropout au courant max"
 Text Notes 5900 2000 0    60   ~ 0
 http://www.emil.matei.ro/onof2.php
 $Comp
